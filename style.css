@@ -20,8 +20,9 @@ body {
 }
 
 header {
+    font-family: "Raleway", serif;
     text-align: center;
-    color: #ffffff;
+    color: #7c736c;
     margin: 20px;
 }
 
