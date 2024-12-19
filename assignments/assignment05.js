@@ -3,7 +3,7 @@ let numCircle,circleR;
 
 function preload(){
   
-img = loadImage("image/optical bg.jpg");
+img = loadImage("../image/optical bg.jpg");
 }
 
 function setup() {
